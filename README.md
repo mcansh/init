@@ -1,2 +1,2 @@
 # init
-my base for a git repo
+generally the first things I do when making a website
