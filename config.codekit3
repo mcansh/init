@@ -108,6 +108,14 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"\/source\/includes\/svg.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/docs\/includes\/svg.html",
+		"oF": 1,
+		"oS": 1
+		},
 	"\/webpack.config.js": {
 		"ft": 64,
 		"mi": 0,
