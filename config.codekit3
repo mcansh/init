@@ -131,18 +131,18 @@
 	"\/webpack.config.js": {
 		"ft": 64,
 		"ma": 0,
-		"mi": 0,
-		"oA": 1,
+		"mi": 1,
+		"oA": 0,
 		"oAP": "\/docs\/webpack.config.min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
+		"oF": 0,
+		"sC": 3,
+		"tS": 1
 		},
 	"\/yarn.lock": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/docs\/yarn.lock",
-		"oF": 1
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -163,7 +163,7 @@
 	"displayValue": "init",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-punDog",
-	"lastBuiltDate": 526838322
+	"lastBuiltDate": 526838595
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
