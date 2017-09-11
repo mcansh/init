@@ -1,1 +1,1 @@
-import { $, $$ } from './bling';
+import { $, $$ } from './modules/bling';
