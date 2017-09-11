@@ -5,17 +5,19 @@
   "main": "source/assets/js/main.js",
   "dependencies": {},
   "devDependencies": {
-    "babel-polyfill": "^6.22.0",
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
+    "babel-polyfill": "^6.22.0",
     "babel-preset-es2015-native-modules": "^6.9.4",
     "eslint": "^3.13.1",
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0",
+    "svg-join": "^1.1.1",
     "webpack": "^2.2.1"
   },
   "scripts": {
-    "build": "webpack --progress --colors --watch"
+    "build": "webpack --progress --colors --watch",
+    "sprite": "svg-join -s 'source/assets/img/**/*.svg' -o source/assets/img -n sprite"
   },
   "author": "Logan McAnsh",
   "license": "",
