@@ -2,14 +2,6 @@
 "AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
 "buildSteps": [
 	{
-		"name": "Generate SVG Spritesheet",
-		"scriptSourceString": "[ -e .\/source\/assets\/img\/sprite.svg ] && rm .\/source\/assets\/img\/sprite.svg\ngulp svgstore\necho \"spritesheet coming up!\"",
-		"scriptType": 1,
-		"scriptUUIDString": "93B01A1A-9CAC-4C43-A353-E421E8045F9D",
-		"stepType": 2,
-		"uuidString": "A5C02EFA-F725-4C49-ADB2-45ABF0701147"
-		},
-	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
 		"uuidString": "60DAFC04-05E4-4682-86EF-4B586A8DDA2A"
@@ -32,22 +24,6 @@
 		"oA": 1,
 		"oAP": "\/docs\/.gitignore",
 		"oF": 1
-		},
-	"\/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/docs\/docs",
-		"oF": 0
-		},
-	"\/gulpfile.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 0,
-		"oA": 1,
-		"oAP": "\/docs\/gulpfile.min.js",
-		"oF": 1,
-		"sC": 0,
-		"tS": 0
 		},
 	"\/package.json": {
 		"ft": 524288,
@@ -148,7 +124,7 @@
 	"displayValue": "init",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-punDog",
-	"lastBuiltDate": 513479074
+	"lastBuiltDate": 526836204
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
