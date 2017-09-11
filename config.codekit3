@@ -64,15 +64,15 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/source\/assets\/css\/_functions.sass": {
+	"\/source\/assets\/css\/style.sass": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 2,
 		"ma": 1,
-		"oA": 1,
-		"oAP": "\/docs\/assets\/css\/_functions.css",
+		"oA": 0,
+		"oAP": "\/docs\/assets\/css\/style.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -94,6 +94,14 @@
 		"oF": 1,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/source\/includes\/svg.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/docs\/includes\/svg.html",
+		"oF": 0,
+		"oS": 1
 		},
 	"\/webpack.config.js": {
 		"ft": 64,
