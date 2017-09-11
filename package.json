@@ -14,7 +14,6 @@
     "babel-loader": "^6.2.10",
     "babel-preset-es2015-native-modules": "^6.9.4",
     "eslint": "^3.13.1",
-    "eslint-config-airbnb": "^14.0.0",
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0",
     "webpack": "^2.2.1"
