@@ -1,4 +1,6 @@
 # init
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mcansh/init.svg)](https://greenkeeper.io/)
 generally the first things I do when making a website
 
 sass imports are pulling from codekit and my local codekit framework
